@@ -1,0 +1,53 @@
+form{
+        background-color: #720698;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+border-radius: 10px;
+box-shadow: 10px 10px 10px 10px;
+}
+legend {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button  {
+    height: 50px;
+    width:400px;
+border-radius: 5px;
+    margin-left: 50px;
+}
+.password{
+    margin-left: 90px;
+}
+.email {
+    margin-left: 120px;
+}
+.language{
+    margin-left: 90px;
+}
+.about {
+    margin-left: 120px;
+}
+.zip{
+    margin-left: 100px;
+}
+
+.phone{
+    margin-left: 50px;
+}
+button:hover{
+    background-color: green;
+}
+label{
+    color: white;
+
+}
+
+
+
+
+
+
+
